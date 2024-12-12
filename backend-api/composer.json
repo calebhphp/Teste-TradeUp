@@ -1,0 +1,19 @@
+{
+    "name": "mathe/backend-api",
+    "description": "API para busca de CEP usando ViaCEP",
+    "autoload": {
+        "psr-4": {
+            "Mathe\\BackendApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "calebhphp",
+            "email": "matheusvillanova1@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
