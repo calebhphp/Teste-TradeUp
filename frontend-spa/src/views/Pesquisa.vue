@@ -93,7 +93,7 @@
     cursor: pointer;
     border-radius: 4px;
     font-size: 16px;
-    margin-top: 10px;  /* Ajusta o espaçamento entre os botões */
+    margin-top: 10px;  
   }
   
   button:hover {
